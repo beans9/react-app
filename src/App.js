@@ -6,7 +6,6 @@ import {
     Route,
 } from "react-router-dom";
 import Detail from "./routes/Detail";
-import process from "prop-types/prop-types";
 
 function App() {
   return (
